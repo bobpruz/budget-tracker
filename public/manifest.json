@@ -41,7 +41,7 @@
             "type": "image/png"
             }
     ],
-    "name": "Buget-Tracker",
+    "name": "Budget-Tracker",
     "short_name": "Budget-tracker",
     "orientation": "portrait",
     "display": "standalone",
