@@ -38,7 +38,7 @@ JavaScript, Node, NPM, express.js, mongoDB,
 
 ## Site Link
 
-https://bobpruz-blog.herokuapp.com/
+https://bobpruz-budget.herokuapp.com/
 
 ## Screenshot
 
